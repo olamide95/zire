@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "608815648431",
+    "project_id": "zire-fb3a4",
+    "storage_bucket": "zire-fb3a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608815648431:android:4e5cdd7aab0f6a49198e5a",
+        "android_client_info": {
+          "package_name": "com.example.zire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608815648431-rgknt3iu4vo5q38ght0bfr9suia71d3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv9jVL_Ks2fb72fo-30VJTRyp66GWNwHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608815648431-rgknt3iu4vo5q38ght0bfr9suia71d3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
